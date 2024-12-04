@@ -1,0 +1,78 @@
+body {
+    margin: 0%;
+}
+header{
+    background-color: #092576;
+    color: white;
+    text-align: right;
+    height: 10px;
+    padding: 10%;
+}
+
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: #092576;
+}
+
+hr {
+    color: #092576;
+    border: 100%;
+}
+
+li {
+    color: #092576;
+}
+
+p {
+    color: #092576;
+}
+
+
+
+
+.derecha {
+    background-color: white;
+    text-align: left;
+    width: 57%;
+    margin-left: 37%;
+    margin-top: 0%;
+}
+
+div {
+    background-color: #1c54af;
+    color: white;
+    width: 30%;
+    text-align: left;
+    padding: 2%;
+}
+
+
+
+
+.juan {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.titulo_bloque {
+    color: white;
+}
+
+.lista_bloque {
+    color: white;
+}
+
+a {
+    color: white;
+}
